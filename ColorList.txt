@@ -1,0 +1,18 @@
+Color List:
+
+E85553 - Rojo claro
+27D4C4 - Turquesa
+18F83C - Verde lima
+F49B4A - Naranja
+D9B1F6 - Lila
+846027 - Marrón
+EFFD4F - Amarillo
+DF1454 - Fucsia
+C3FDFE - Azul cielo
+860653 - Granate
+BFBCC6 - Plateado
+AE1DFC - Morado eléctrico
+B71B13 - Rojo metalizado
+F861A5 - Rosa chicle
+3D145E - Morado oscuro
+2C271E - Gris oscuro
